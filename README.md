@@ -84,8 +84,8 @@ Then open `eda.ipynb` in Jupyter, VS Code or PyCharm and run all cells.
 
 ## Dataset and credits
 
-Data: Olist Brazilian E-Commerce Public Dataset, provided by [Olist](https://olist.com/) on Kaggle. See the dataset page for its license and terms of use.
+Data: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), provided by [Olist](https://olist.com/) on Kaggle and released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The data is not included in this repository.
 
-## Author
+## License
 
-**[Your Name]** · [Portfolio](https://your-portfolio-link) · [LinkedIn](https://your-linkedin-link)
+Code: [MIT](LICENSE). The dataset is not covered by this license and remains under CC BY-NC-SA 4.0 (attribution, non-commercial, share-alike).
